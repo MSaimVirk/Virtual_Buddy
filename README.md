@@ -101,6 +101,7 @@ Add other features (e.g., mood tracking)
 
 
 1. Core Components
+
 A. Client Layer (Cross-Platform)
 Mobile (Android/iOS):
 Voice/Text UI: Flutter/React Native for unified frontend.
